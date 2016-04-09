@@ -12,3 +12,5 @@ Class 1
 Getting Started https://dl.dropboxusercontent.com/u/342069/FEWD85/Getting_Started.pdf
 
 HTML&CSS https://dl.dropboxusercontent.com/u/342069/FEWD85/HTML%26CSS.pdf
+
+https://docs.google.com/document/d/1VTroUJVy7rOAWWG7F78Deu6LYOT3Ahu7akc8d4aqEAU/edit
