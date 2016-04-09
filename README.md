@@ -6,6 +6,10 @@ https://docs.google.com/spreadsheets/d/1sZcpb7HwBERscQ-f9Gr_jlVkj4jBBZmGAq8-META
 Please include your name and time of the appointment like so: 
 Robert Jordan 1/10  1:30-3pm
 
+Study Resources:
+
+https://docs.google.com/document/d/1VTroUJVy7rOAWWG7F78Deu6LYOT3Ahu7akc8d4aqEAU/edit
+
 Lectures
 
 Class 1
@@ -13,4 +17,3 @@ Getting Started https://dl.dropboxusercontent.com/u/342069/FEWD85/Getting_Starte
 
 HTML&CSS https://dl.dropboxusercontent.com/u/342069/FEWD85/HTML%26CSS.pdf
 
-https://docs.google.com/document/d/1VTroUJVy7rOAWWG7F78Deu6LYOT3Ahu7akc8d4aqEAU/edit
