@@ -17,3 +17,8 @@ Getting Started https://dl.dropboxusercontent.com/u/342069/FEWD85/Getting_Starte
 
 HTML&CSS https://dl.dropboxusercontent.com/u/342069/FEWD85/HTML%26CSS.pdf
 
+Class 2
+
+ReCap and Best Practice https://dl.dropboxusercontent.com/u/342069/FEWD85/Re-Cap%20and%20Best%20Practice%20Week%202.pdf
+Advanced CSS and Layouts https://dl.dropboxusercontent.com/u/342069/FEWD85/Advance%20CSS%20and%20Layouts.pdf
+
