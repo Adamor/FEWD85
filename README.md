@@ -23,3 +23,8 @@ ReCap and Best Practice https://dl.dropboxusercontent.com/u/342069/FEWD85/Re-Cap
 
 Advanced CSS and Layouts https://dl.dropboxusercontent.com/u/342069/FEWD85/Advance%20CSS%20and%20Layouts.pdf
 
+Class 3
+
+CSS Animations https://dl.dropboxusercontent.com/u/342069/FEWD85/CSS%20Animations.pdf
+
+Large HTML/CSS LAB! https://dl.dropboxusercontent.com/u/342069/FEWD85/Large%20HTML%20and%20CSS%20LAB.pdf
