@@ -31,7 +31,7 @@ Large HTML/CSS LAB! https://dl.dropboxusercontent.com/u/342069/FEWD85/Large%20HT
 
 Class 4
 
-Review Quizzes: fewd85.paperplane.io
+Review Quizzes: http://fewd85.paperplane.io/
 
 Intro to Programming and JS Basic: https://dl.dropboxusercontent.com/u/342069/FEWD85/Intro%20to%20Programming%20and%20JS%20Basics.pdf
 
