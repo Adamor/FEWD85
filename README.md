@@ -35,4 +35,6 @@ Review Quizzes: http://fewd85.paperplane.io/
 
 Intro to Programming and JS Basic: https://dl.dropboxusercontent.com/u/342069/FEWD85/Intro%20to%20Programming%20and%20JS%20Basics.pdf
 
+Class 5
 
+More JS goodness : https://dl.dropboxusercontent.com/u/342069/FEWD85/Objects%2C%20Function%2C%20Arrays%2C%20Loops...LABS.pdf
