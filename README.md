@@ -37,4 +37,8 @@ Intro to Programming and JS Basic: https://dl.dropboxusercontent.com/u/342069/FE
 
 Class 5
 
-More JS goodness : https://dl.dropboxusercontent.com/u/342069/FEWD85/Objects%2C%20Function%2C%20Arrays%2C%20Loops...LABS.pdf
+More JS goodness: https://dl.dropboxusercontent.com/u/342069/FEWD85/Objects%2C%20Function%2C%20Arrays%2C%20Loops...LABS.pdf
+
+Class 6
+
+jQuery and Advanced JS thoughts: https://dl.dropboxusercontent.com/u/342069/FEWD85/jQuery%20%26%20AdvancedJS.pdf
