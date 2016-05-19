@@ -42,3 +42,7 @@ More JS goodness: https://dl.dropboxusercontent.com/u/342069/FEWD85/Objects%2C%2
 Class 6
 
 jQuery and Advanced JS thoughts: https://dl.dropboxusercontent.com/u/342069/FEWD85/jQuery%20%26%20AdvancedJS.pdf
+
+Class 7
+
+jQuery Review Lab and Responsive Design https://dl.dropboxusercontent.com/u/342069/FEWD85/JQuery%20Review%20Lab%20and%20Responsive%20Design.pdf
