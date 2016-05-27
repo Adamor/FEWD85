@@ -46,3 +46,8 @@ jQuery and Advanced JS thoughts: https://dl.dropboxusercontent.com/u/342069/FEWD
 Class 7
 
 jQuery Review Lab and Responsive Design https://dl.dropboxusercontent.com/u/342069/FEWD85/JQuery%20Review%20Lab%20and%20Responsive%20Design.pdf
+
+Class 8
+
+Forms and Apis
+https://dl.dropboxusercontent.com/u/342069/FEWD85/Forms%20and%20APIS.pdf
