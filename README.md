@@ -51,3 +51,6 @@ Class 8
 
 Forms and Apis
 https://dl.dropboxusercontent.com/u/342069/FEWD85/Forms%20and%20APIS.pdf
+
+Frame works
+https://dl.dropboxusercontent.com/u/342069/FEWD85/Frameworks.pdf
