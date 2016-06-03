@@ -54,3 +54,12 @@ https://dl.dropboxusercontent.com/u/342069/FEWD85/Forms%20and%20APIS.pdf
 
 Frame works
 https://dl.dropboxusercontent.com/u/342069/FEWD85/Frameworks.pdf
+
+Class 9
+
+CRUD APP Review
+https://dl.dropboxusercontent.com/u/342069/FEWD85/To-Do-List%20Lab.pdf
+
+Alt Layouts
+https://dl.dropboxusercontent.com/u/342069/FEWD85/Alt%20Layouts%20Masonary%20and%20Parallax.pdf
+
